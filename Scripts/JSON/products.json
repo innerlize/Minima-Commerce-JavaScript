@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Logitech G900",
+    "id": 1,
+    "category": "mouse",
+    "description": "Por lejos, uno de los mejores mouses usados hasta la actualidad.",
+    "price": 200,
+    "image": "https://media.ldlc.com/r1600/ld/products/00/04/15/33/LD0004153390_2.jpg"
+  },
+  {
+    "name": "Razer Huntsman Elite",
+    "id": 2,
+    "category": "keyboard",
+    "description": "Teclado retro-iluminado con apoya-muñeca.",
+    "price": 400,
+    "image": "https://m.media-amazon.com/images/I/81Vtb-0K3-L._AC_SL1500_.jpg"
+  },
+  {
+    "name": "Logitech G915",
+    "id": 3,
+    "category": "keyboard",
+    "description": "Uno de los teclados más simples de la marca Logitech, pero que no defrauda.",
+    "price": 900,
+    "image": "https://m.media-amazon.com/images/I/61UeYzwdhGL._AC_SY450_.jpg"
+  },
+  {
+    "name": "Samsung C24F390",
+    "id": 4,
+    "category": "monitor",
+    "description": "Un monitor algo codiciado por los que recien empiezan en el mundo del gaming.",
+    "price": 430,
+    "image": "https://www.computershopping.com.ar/Images/Productos/Grandes/LC24F390FHNXZA_Foto0g.jpg"
+  },
+  {
+    "name": "Corsair M65 Pro RGB",
+    "id": 5,
+    "category": "mouse",
+    "description": "Luces extras nunca vienen mal, este mouse es para vos.",
+    "price": 245,
+    "image": "https://cwsmgmt.corsair.com/pdp/m65-pro/images/m65_pro_blk_clicks.png"
+  },
+  {
+    "name": "Dell P2319H",
+    "id": 6,
+    "category": "monitor",
+    "description": "Un monitor muy simple, pero muy util para tareas cotidianas.",
+    "price": 300,
+    "image": "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/peripherals/output_devices/dell/monitors/p_series/p2319h/spi/monitor-p2319h-hero-504x350-responsive.png?fmt=jpg"
+  },
+  {
+    "name": "Razer Blackwidow Elite",
+    "id": 7,
+    "category": "keyboard",
+    "description": "Teclado moderno, de color negro y con apoya-muñeca.",
+    "price": 420,
+    "image": "https://www.muycomputer.com/wp-content/uploads/2019/03/Razer-BlackWidow-Elite-Review-1000x600.jpg"
+  },
+  {
+    "name": "Razer DeathAdder Elite",
+    "id": 8,
+    "category": "mouse",
+    "description": "Un mouse bastante querido desde hace años.",
+    "price": 560,
+    "image": "https://assets.razerzone.com/eeimages/products/25919/daelite_gallery02.png"
+  },
+  {
+    "name": "SteelSeries Rival 710",
+    "id": 9,
+    "category": "mouse",
+    "description": "Con este mouse podrías conquistar prácticamente cualquier videojuego, gracias a su increible bajo peso.",
+    "price": 655,
+    "image": "https://m.media-amazon.com/images/I/81wRhn6mF-L._AC_SL1500_.jpg"
+  },
+  {
+    "name": "Logitech G815 Lightspeed",
+    "id": 10,
+    "category": "keyboard",
+    "description": "Un teclado con key-caps muy delgadas para que cuides tus queridos dedos.",
+    "price": 190,
+    "image": "https://resource.logitechg.com/d_transparent.gif/content/dam/gaming/en/products/g815/g815-gallery-hero.png"
+  },
+  {
+    "name": "ASUS ZenScreen Go MB16AP",
+    "id": 11,
+    "category": "monitor",
+    "description": "¿Siempre quisiste tener un monitor portable? Esta es tu oportunidad.",
+    "price": 990,
+    "image": "https://www.asus.com/media/global/products/a4bsXB3dWnyFSecr/P_setting_xxx_0_90_end_692.png"
+  },
+  {
+    "name": "Corsair Scimitar RGB",
+    "id": 12,
+    "category": "mouse",
+    "description": "Este mouse ya tiene sus años y su fama, y aún así, sigue reinando en su uso por los fanáticos de los MMORPGs.",
+    "price": 130,
+    "image": "https://m.media-amazon.com/images/I/614J0VriTRL._AC_SL1500_.jpg"
+  },
+  {
+    "name": "Logitech G513",
+    "id": 13,
+    "category": "keyboard",
+    "description": "Un teclado robusto, con apoya-muñeca.",
+    "price": 210,
+    "image": "https://resource.logitechg.com/content/dam/gaming/en/products/g513/g513-carbon-gallery-1.png"
+  },
+  {
+    "name": "Lenovo L24e",
+    "id": 14,
+    "category": "monitor",
+    "description": "Un monitor delicado y simple, para tareas cotidianas.",
+    "price": 660,
+    "image": "https://shiftdigital.com.ar/images/Lenovo%20Monitor%2024%20L24e20%20HDMI%20VGA%2065DFKAC1AR%203.jpg"
+  },
+  {
+    "name": "Alienware Curved AW3420DW",
+    "id": 15,
+    "category": "monitor",
+    "description": "Ofrece la posibilidad de una amplia visión estratégica.",
+    "price": 705,
+    "image": "https://m.media-amazon.com/images/S/aplus-media/vc/7043d6ea-39b2-4537-9e84-1ced1d084283.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+  },
+  {
+    "name": "HyperX Pulsefire FPS",
+    "id": 16,
+    "category": "mouse",
+    "description": "Un mouse simple, con botones personalizables para tus usos.",
+    "price": 470,
+    "image": "https://media.kingston.com/hyperx/features/hx-features-mouse-pulsefirefpspro.jpg"
+  },
+  {
+    "name": "Logitech G203 Lightsync",
+    "id": 17,
+    "category": "mouse",
+    "description": "El mejor mouse de la historia, recomendado hasta por los más avanzados jugadores de múltiples videojuegos.",
+    "price": 130,
+    "image": "https://m.media-amazon.com/images/I/61UxfXTUyvL._AC_SY450_.jpg"
+  },
+  {
+    "name": "Corsair MM600",
+    "id": 18,
+    "category": "mousepad",
+    "description": "Alfombrilla con una buena capacidad de deslizamiento.",
+    "price": 80,
+    "image": "https://www.corsair.com/corsairmedia/sys_master/productcontent/CH-9000104-WW-MM600_01.png"
+  },
+  {
+    "name": "Logitech G440",
+    "id": 19,
+    "category": "mousepad",
+    "description": "Esta alfombrilla es una de las más buscadas en el mercado.",
+    "price": 110,
+    "image": "data:image/jpeg;base64,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"
+  },
+  {
+    "name": "Logitech G240",
+    "id": 20,
+    "category": "mousepad",
+    "description": "Alfombrilla simple, pero muy efectiva para múltiples usos.",
+    "price": 235,
+    "image": "https://media.ldlc.com/r1600/ld/products/00/03/97/20/LD0003972043_2.jpg"
+  }
+]

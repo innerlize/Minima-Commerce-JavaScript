@@ -1,0 +1,7 @@
+// PEQUEÑA FUNCIÓN PARA QUE EL AÑO ESCRITO EN LA SECCIÓN DEL FOOTER PUEDA SER
+// ACTUALIZADO CADA AÑO AUTOMÁTICAMENTE, SIN LA NECESIDAD DE ESTAR HACIENDOLO
+// UNO MISMO.
+
+const year = new Date()
+
+document.getElementById("year").innerHTML = year.getFullYear()
